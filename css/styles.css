@@ -1,0 +1,84 @@
+ ul {
+    list-style: none;
+ } 
+ a {
+    text-decoration: none;
+ }
+
+ .body {
+    font-family: 'Roboto', sans-serif;
+ }
+
+ /* ======Header======= */
+
+.header-link {
+font-weight: 500;
+font-size: 16px;
+line-height: 0.66;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.contact-link {
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 0.66;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/* =====Hero===== */
+.main-title {
+font-weight: 700;
+font-size: 56px;
+line-height: 0.93;
+text-align: center;
+letter-spacing: 0.02em;
+/* then replace with the original */
+color: #434455;
+}
+
+.modal-btn {
+font-weight: 500;
+font-size: 16px;
+line-height: 0.66;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+cursor: pointer;
+}
+
+/* ======Components===== */
+/* =====About us===== */
+.benefits {
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 0.83;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.text-benefits {
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 0.66;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/* =====Project===== */
+.suptitle {
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 0.9;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+/* ======/Components===== */

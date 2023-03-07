@@ -1,0 +1,107 @@
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+
+ .body {
+    font-family: 'Roboto', sans-serif;
+ }
+
+
+/* =====Header===== */
+.header-link {
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 0.67;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.contact-link {
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 0.67;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/* =====Section button===== */
+
+.modal-btn {
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+color: #4D5AE5;
+cursor: pointer;
+}
+.modal-btn:hover,
+.modal-btn:focus {
+    background: #404BBF;
+    color: #F4F4FD;;
+}
+
+/* =====What we can do===== */
+.suptitle {
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 0.83;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.text-suptitle {
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 0.67;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.header-studio {
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 0.86;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2E2F42;
+}
+
+.header-web {
+font-family: 'Raleway',  sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 0.86;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4D5AE5;
+}
+
+/* =====Fotter===== */
+.text-benefits {
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 0.67;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+}
